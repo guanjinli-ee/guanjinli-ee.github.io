@@ -25,11 +25,6 @@ Previously, I received my B.S. degrees in **Electrical Engineering** and **Appli
 * Safe autonomy and reliable real-robot deployment
 * Computer vision and robotic perception
 
-## Publications
-
-* **G. Li**, “Six-Degree-of-Freedom Pose Estimation of Class-Level Objects Based on P2T-Net,” *Information Technology and Control*, 2024.
-* **G. Li**, “CSNet-PGNet: Algorithm for Scene Text Detection and Recognition,” *2022 3rd International Conference on Computer Vision, Image and Deep Learning & International Conference on Computer Engineering and Applications*, 2022.
-
 ## Selected Experience
 
 **Researcher, High-Level Human-Robot Interaction**
